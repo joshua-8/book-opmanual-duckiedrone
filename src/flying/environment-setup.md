@@ -18,7 +18,7 @@ To make it possible for you to develop your own code on the drone, you need to s
 
     ```shell
     mkdir -p catkin_ws/src && cd catkin_ws/src
-    git clone https://github.com/duckietown/pidrone_pkg -b dd24 && cd pidrone_pkg
+    git clone https://github.com/duckietown/pidrone_pkg -b dd21 && cd pidrone_pkg
     ```
 
     ```{note}

@@ -5,13 +5,13 @@ There is only one first time you can connect to your Duckiedrone. Savor the expe
 
 ```{needget}
 
-*   An assembled `DD24`
+*   An assembled `DD21`
 
-*   A `DD24` initialized SD card, see [](sw-initialization)
+*   A `DD21` initialized SD card, see [](sw-initialization)
 ---
 
 
-*   A live `DD24`
+*   A live `DD21`
 ```
 
 ## Before getting started
@@ -43,7 +43,7 @@ Do not interrupt the first boot procedure, e.g., by removing power to the Raspbe
 3.  Networks are typically one of the biggest headaches in robotics. We offer different network configurations to minimize these headaches. If you are not sure which choice to make, the right answer typically is: if you are in a university go for AP mode. If you are at home go for CL mode. In both cases, you need to place the jumper accordingly on your `P7` & `P11` pins before getting started.  
     
     ```{todo}
-    Ditch this warning and update the images for DD24.
+    Ditch this warning and update the images for DD21.
     ```
     ```{attention}
     At present AP mode is unstable, we suggest you to use CL mode.

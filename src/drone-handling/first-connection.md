@@ -5,13 +5,13 @@ You are now ready to connect to your Duckiedrone through the Duckietown Dashboar
 
 ```{needget}
 
-*   A live `DD24` ([First Boot](sec:first-boot))
+*   A live `DD21` ([First Boot](sec:first-boot))
 
 *   A base station with wireless connectivity, or a pre-existing network
 
 ---
 
-*   A fully operational `DD24`
+*   A fully operational `DD21`
 
 ```
 

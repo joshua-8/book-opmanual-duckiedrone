@@ -16,7 +16,7 @@ parts:
         - file: preliminaries/software-initialization
         - file: preliminaries/flight-controller-initialization
 
-    # - caption: Hardware build DD24
+    # - caption: Hardware build DD21
     #   maxdepth: 2
     #   numbered: False
 

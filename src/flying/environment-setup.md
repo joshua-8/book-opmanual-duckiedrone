@@ -9,7 +9,7 @@ To make it possible for you to develop your own code on the drone, you need to s
 1.  Run `ssh duckie@[yourdrone].local` from your base station to ssh into your drone.  The password is
 `quackquack`.
 
-1. Clone the repository to your Duckiedrone's SD card and switch to the branch `ente`:
+1. Clone the repository to your Duckiedrone's SD card:
 
     ```shell
     mkdir -p catkin_ws/src && cd catkin_ws/src
